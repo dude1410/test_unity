@@ -8,7 +8,7 @@
       "hash": "b43e40508b167d143330d8b9eff0d5c9965cdf3c"
     },
     "com.littlebigfun.addressable-importer": {
-      "version": "file:../Library/3rd-party/unity-addressable-importer-0.11.3",
+      "version": "file:../Assets/unity-addressable-importer-0.11.3",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -379,13 +379,13 @@
       }
     },
     "com.unity.uiextensions": {
-      "version": "file:../Library/3rd-party/unity-ui-extensions-2.2.7",
+      "version": "file:../Assets/unity-ui-extensions-2.2.7",
       "depth": 0,
       "source": "local",
       "dependencies": {}
     },
     "com.yasirkula.assetusagedetector": {
-      "version": "file:../Library/3rd-party/UnityAssetUsageDetector-1.9.6",
+      "version": "file:../Assets/UnityAssetUsageDetector-1.9.6",
       "depth": 0,
       "source": "local",
       "dependencies": {}
