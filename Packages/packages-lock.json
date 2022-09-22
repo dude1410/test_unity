@@ -1,5 +1,20 @@
 {
   "dependencies": {
+    "com.coffee.ui-effect": {
+      "version": "https://github.com/mob-sakai/UIEffect.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b43e40508b167d143330d8b9eff0d5c9965cdf3c"
+    },
+    "com.littlebigfun.addressable-importer": {
+      "version": "file:C:/Users/Dude/Downloads/unity-addressable-importer-0.11.3",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.addressables": "1.1.5"
+      }
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -362,6 +377,18 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.unity.uiextensions": {
+      "version": "file:C:/Users/Dude/Downloads/unity-ui-extensions-2.2.7",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.yasirkula.assetusagedetector": {
+      "version": "file:C:/Users/Dude/Downloads/UnityAssetUsageDetector-1.9.6",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
