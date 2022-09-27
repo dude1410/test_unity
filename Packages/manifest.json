@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.coffee.ui-effect": "https://github.com/mob-sakai/UIEffect.git",
-    "com.littlebigfun.addressable-importer": "file:../Assets/unity-addressable-importer-0.11.3",
+    "com.littlebigfun.addressable-importer": "file:../unity-addressable-importer-0.11.3",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.addressables": "1.20.5",
     "com.unity.analytics": "3.6.12",
@@ -28,8 +28,8 @@
     "com.unity.transport": "1.0.0",
     "com.unity.ucg.usqp": "0.2.0-preview.1",
     "com.unity.ugui": "1.0.0",
-    "com.unity.uiextensions": "file:../Assets/unity-ui-extensions-2.2.7",
-    "com.yasirkula.assetusagedetector": "file:../Assets/UnityAssetUsageDetector-1.9.6",
+    "com.unity.uiextensions": "file:../unity-ui-extensions-2.2.7",
+    "com.yasirkula.assetusagedetector": "file:../UnityAssetUsageDetector-1.9.6",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
