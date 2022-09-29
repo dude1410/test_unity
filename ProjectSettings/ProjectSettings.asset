@@ -144,7 +144,7 @@ PlayerSettings:
   vrSettings:
     enable360StereoCapture: 0
   isWsaHolographicRemotingEnabled: 0
-  enableFrameTimingStats: 0
+  enableFrameTimingStats: 1
   useHDRDisplay: 0
   D3DHDRBitDepth: 0
   m_ColorGamuts: 00000000
@@ -303,7 +303,7 @@ PlayerSettings:
   - m_BuildTarget: iOSSupport
     m_GraphicsJobs: 0
   - m_BuildTarget: WindowsStandaloneSupport
-    m_GraphicsJobs: 1
+    m_GraphicsJobs: 0
   - m_BuildTarget: XboxOnePlayer
     m_GraphicsJobs: 1
   - m_BuildTarget: LuminSupport
@@ -593,7 +593,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: BOLT_CLOUD;UNITY_POST_PROCESSING_STACK_V2;BAKERY_INCLUDED;NOT_DEDICATED;NOT_HEADLESS;TextMeshPro
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
